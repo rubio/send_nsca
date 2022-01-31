@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Roguelazer/send_nsca.png?branch=master)](https://travis-ci.org/Roguelazer/send_nsca)
+[![Build Status](https://travis-ci.org/rubio/send_nsca.png?branch=master)](https://travis-ci.org/rubio/send_nsca)
 
 
 Overview
