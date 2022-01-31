@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+mypy = "*"
+nose = "*"
+unittest2 = "*"
+mock = "==1.0.1"
+
+[packages]
+pycrypto = ">=2.0"
+
+[requires]
+python_version = "3.7"
